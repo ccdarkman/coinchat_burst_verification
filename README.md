@@ -1,2 +1,2 @@
-# coinchat_burst_verification
-verification of coinchat_burst
+# coinchat_bustpoint_verification
+verification of coinchat_bustpoint
